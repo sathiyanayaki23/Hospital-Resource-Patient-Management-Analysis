@@ -17,7 +17,7 @@ This project analyzes hospital operations using Excel and Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Key Insights
 - Patient occupancy trends identified
